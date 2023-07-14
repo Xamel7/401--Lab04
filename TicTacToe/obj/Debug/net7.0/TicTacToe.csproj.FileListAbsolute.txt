@@ -1,0 +1,15 @@
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\bin\Debug\net7.0\TicTacToe.exe
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\bin\Debug\net7.0\TicTacToe.deps.json
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\bin\Debug\net7.0\TicTacToe.runtimeconfig.json
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\bin\Debug\net7.0\TicTacToe.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\bin\Debug\net7.0\TicTacToe.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\refint\TicTacToe.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\TicTacToe.genruntimeconfig.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401--Lab04\TicTacToe\obj\Debug\net7.0\ref\TicTacToe.dll
